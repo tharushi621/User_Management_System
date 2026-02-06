@@ -3,6 +3,6 @@ abstract class User{
 
   User(this.name);
 
-  void login();
   void accessLevel();
+  void showMenu();
 }
